@@ -26,3 +26,4 @@ public class Homework16 {public class Homework16 {
     String registration = "https// go.koel.app/registration";
    Assert.assertEquals(driver.getCurrenturl();)
 }
+ 
