@@ -16,3 +16,4 @@ public class Homework22 extends BaseTest {
         Assert.assertEquals(homepage.getRenamePlaylistSuccessMessage(),UpdatedPlaylistMsg);
         }
 }
+
